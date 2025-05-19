@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wizard Slug
+* source:	https://sketchfab.com/3d-models/wizard-slug-bcecd015a7754b7b9bedb2db53a1f7b7
+* author:	Cass Cole (https://sketchfab.com/ndiecity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wizard Slug" (https://sketchfab.com/3d-models/wizard-slug-bcecd015a7754b7b9bedb2db53a1f7b7) by Cass Cole (https://sketchfab.com/ndiecity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

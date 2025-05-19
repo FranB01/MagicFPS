@@ -1,0 +1,11 @@
+Model Information:
+* title:	Key
+* source:	https://sketchfab.com/3d-models/key-1ae54d3a720e4ca899da5ab9508908e1
+* author:	Joshua Alfonso (https://sketchfab.com/JoshuaAlfonso)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Key" (https://sketchfab.com/3d-models/key-1ae54d3a720e4ca899da5ab9508908e1) by Joshua Alfonso (https://sketchfab.com/JoshuaAlfonso) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
